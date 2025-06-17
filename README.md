@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanyaaab" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyaaab?logo=twitter&style=for-the-badge" alt="chaitanyaaab" /></a> </p>
 
-- 🔭 I’m currently working on [Legal Doc Interpretator](https://github.com/madhurya-ops/Legal-Document-Parser)
+-  I’m currently working on [Legal Doc Interpretator](https://github.com/madhurya-ops/Legal-Document-Parser)
 
-- 🌱 I’m currently learning **LLM,LangChain,FastAPI,Streamlit**
+-  I’m currently learning **LLM,LangChain,FastAPI,Streamlit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chai-B?tab=repositories](https://github.com/Chai-B?tab=repositories)
+-  All of my projects are available at [https://github.com/Chai-B?tab=repositories](https://github.com/Chai-B?tab=repositories)
 
-- 📫 How to reach me **bansalchaitanya1234@gmail.com**
+-  How to reach me **bansalchaitanya1234@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Chai-B/Chai-B/blob/main/resume.pdf](https://github.com/Chai-B/Chai-B/blob/main/resume.pdf)
+-  Know about my experiences [https://github.com/Chai-B/Chai-B/blob/main/resume.pdf](https://github.com/Chai-B/Chai-B/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
