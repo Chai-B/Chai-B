@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanyaaab" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyaaab?logo=twitter&style=for-the-badge" alt="chaitanyaaab" /></a> </p>
 
--  I’m currently working on [Legal Doc Interpretator](https://github.com/madhurya-ops/Legal-Document-Parser) , [Hub App](https://github.com/Chai-B/HubApp)
+-  I’m currently working on [Legal Doc Interpretator](https://github.com/madhurya-ops/Legal-Document-Parser) 
 
 -  I’m currently learning **LLM, LangChain, FastAPI, RAG**
 
